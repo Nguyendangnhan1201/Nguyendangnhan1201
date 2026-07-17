@@ -1,10 +1,10 @@
 # 💫About Me :
 - **Full name**: Nguyễn Đặng Nhân
 - **Hobbies**: Math and coding
-- **A short introduction of myself**: I am a high school student who loves to spend time learning about math and coding. I started exploring about Arduino when I was 13 and had a chance to get access to Python when I was 15. I want to develop my skills and go on learning about Artificial Intelligence, therefore, I would love to learn from any online sources that I can find.
+- **A short introduction of myself**: I am an undergraduate student who loves to spend time learning about math and coding. I started exploring about Arduino when I was 13 and had a chance to get access to Python when I was 15. I want to develop my skills and go on learning about Artificial Intelligence, therefore, I would love to learn from any online sources that I can find.
 - **Contact**: You can contact me through my email: _nhannguyendang1201@gmail.com_
-
-
+-**Profile**: You may view my profile through my LinkedLn: [
+](https://www.linkedin.com/in/đặng-nhân-nguyễn-78a83936a/)
 ## 🌐Socials
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white): (https://www.facebook.com/share/19CvniG3i7/?mibextid=wwXIfr) 
 
